@@ -1,4 +1,5 @@
 # flutsapp
+[![Build Status](https://travis-ci.com/Mastersam07/flutsapp.svg?branch=master)](https://travis-ci.com/Mastersam07/flutsapp)
 
 A whatsapp clone written in Flutter using Firebase &#x2F; Firestore
 
