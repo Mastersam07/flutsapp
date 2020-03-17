@@ -4,6 +4,7 @@ import 'package:flutsapp/screens/call_screen.dart';
 import 'package:flutsapp/screens/camera_screen.dart';
 import 'package:flutsapp/screens/chat_screen.dart';
 import 'package:flutsapp/screens/status_screen.dart';
+import 'package:flutsapp/models/chat_model.dart';
 
 class WhatsAppHome extends StatefulWidget {
   final List<CameraDescription> cameras;
@@ -46,7 +47,13 @@ class _WhatsAppHomeState extends State<WhatsAppHome>
           indicatorColor: Colors.white,
           tabs: <Widget>[
             Tab(icon: Icon(Icons.camera_alt)),
-            Tab(text: "CHATS"),
+            Tab(child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: <Widget>[
+                Text('Chats', style: TextStyle(fontSize: 15.0),),
+                Text(dummy.length.toString(), style: TextStyle(fontSize: 15.0),),
+              ],
+            ),),
             Tab(
               text: "STATUS",
             ),

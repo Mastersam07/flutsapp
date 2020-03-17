@@ -37,5 +37,11 @@ List<ChatModel> dummy = [
     message: "Hello, what's going on?",
     time: "15:39",
     avatarUrl: "",
+  ),
+  new ChatModel(
+    name: "Abada Samuel",
+    message: "Hello, what's going on?",
+    time: "15:39",
+    avatarUrl: "",
   )
 ];
