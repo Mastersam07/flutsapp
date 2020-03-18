@@ -2,17 +2,60 @@
 [![Build Status](https://travis-ci.com/Mastersam07/flutsapp.svg?branch=master)](https://travis-ci.com/Mastersam07/flutsapp)
 [![Codemagic build status](https://api.codemagic.io/apps/5e7070fd6e13eb3aa4d3ecf1/5e7070fd6e13eb3aa4d3ecf0/status_badge.svg)](https://codemagic.io/apps/5e7070fd6e13eb3aa4d3ecf1/5e7070fd6e13eb3aa4d3ecf0/latest_build)
 
-A whatsapp clone written in Flutter using Firebase &#x2F; Firestore
+A whatsapp clone written in Flutter using Firebase & Firestore
 
-## Getting Started
+## Demo
+Download the `apk-release.apk` to try out Flutsapp
+<br>
+<a href="https://github.com/mdanics/fluttergram/raw/master/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+<br>
 
-This project is a starting point for a Flutter application.
+## 💻 Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* A little knowledge of Dart and Flutter
+* Hands to code 🤓
+* A brain to think 🤓
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+*
+*
+*
+*
+*
+
+## Dependencies
+* [Flutter](https://flutter.dev/)
+* [Firestore](https://github.com/flutter/plugins/tree/master/packages/cloud_firestore)
+
+## Getting started
+
+#### 1. [Setup Flutter](https://flutter.dev/docs/get-started/install)
+
+#### 2. Clone the repo
+
+```sh
+$ git clone https://github.com/mastersam07/flutsapp.git
+$ cd flutsapp/
+```
+
+#### 3. Setup the firebase app
+
+
+# What's Next?
+ - [ ]
+ - [ ]
+ - [ ]
+ - [ ]
+ - [ ]
+ 
+## 🤓 Author(s)
+**Abada Samuel Oghenero**
