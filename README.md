@@ -7,7 +7,7 @@ A whatsapp clone written in Flutter using Firebase & Firestore
 ## Demo
 Download the `apk-release.apk` to try out Flutsapp
 <br>
-<a href="https://github.com/mdanics/fluttergram/raw/master/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+<a href="https://github.com/mastersam07/flutsapp/raw/master/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 <br>
 
 ## 💻 Requirements
