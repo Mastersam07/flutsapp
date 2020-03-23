@@ -4,6 +4,10 @@
 
 A whatsapp clone written in Flutter using Firebase & Firestore
 
+> This app is under development
+>
+>
+
 ## Demo
 Download the `apk-release.apk` to try out Flutsapp
 <br>
