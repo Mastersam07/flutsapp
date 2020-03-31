@@ -4,7 +4,7 @@
 
 A whatsapp clone written in Flutter using Firebase & Firestore
 
-> This app is under development
+> This app is heavily under development
 >
 >
 
